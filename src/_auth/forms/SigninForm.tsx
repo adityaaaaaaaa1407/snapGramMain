@@ -129,7 +129,7 @@ const SigninForm = () => {
         <p>
           {" "}
           <span className="font-bold sm:text-normal text-sm">
-            Username :
+            Email :
           </span>{" "}
           test2106@gmail.com
         </p>
